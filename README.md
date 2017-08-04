@@ -5,5 +5,5 @@ A simple Todo app with GOlang,Vue and Echo
 
 - go get github.com/mattn/go-sqlite3
 
-- clone and have play around with echo,vue and GO 
+- clone and play around with echo,vue and GO 
 
